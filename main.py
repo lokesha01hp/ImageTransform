@@ -47,7 +47,7 @@ def processImage(filename, operation):
 
     if operation == "cgray":
         imgProcessed = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        new_ext = ".jpg"  # Use jpg for grayscale for max compatibility
+        new_ext = ".jpg"  # jpg for grayscale for max compatibility
         newfilename = f"{name}{new_ext}"
         newfilepath = f"static/{newfilename}"
         cv2.imwrite(newfilepath, imgProcessed)
