@@ -1,6 +1,7 @@
 # ImageTransForm - Flask-Based Image Format Converter
 
-This project was developed **to understand and apply the Flask framework practically** by building a functional **image format converter**.
+This project was developed **to understand and apply the Flask framework practically** by building a functional **image format converter**.In this project, **a user uploads a photo, which is first stored in a folder named `uploadfiles`. It is then processed into the selected format and saved in a `static` folder, from where it is made available for the user to download.** This project was built to **understand and apply the Flask framework practically** while solving a real-world use case.
+
 
 ---
 
