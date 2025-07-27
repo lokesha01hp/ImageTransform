@@ -21,12 +21,13 @@
 
 - Upload images in JPG, PNG, WEBP, GIF.
 - Convert to:
+  - Grayscale
   - PNG
   - JPG
   - WEBP
   - GIF
   - PDF
-  - Grayscale
+  
 - Download converted files directly
 - Flash messaging for user-friendly feedback
 - Clear structure for Flask learners
